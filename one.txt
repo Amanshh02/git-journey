@@ -1,3 +1,6 @@
 one
 i am writing a new line
 hello
+
+another feature
+hello

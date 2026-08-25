@@ -1,6 +1,4 @@
 four
-<<<<<<< HEAD
-four four four
-=======
+
 four four
->>>>>>> staging
+
