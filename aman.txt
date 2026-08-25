@@ -1,6 +1,9 @@
 three
 33
+<<<<<<< HEAD
 lalalallaa
 
 
 hello 3
+=======
+>>>>>>> parent of d33822f (Update aman.txt)
